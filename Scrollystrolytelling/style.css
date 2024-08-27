@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(225, 235, 235);
+}
+header{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+#date-display {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
