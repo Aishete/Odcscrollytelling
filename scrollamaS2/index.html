@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrollama Tutorial</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet">
+</head>
+<body>
+  <dev id="map"></dev>
+  <div id="step" >
+    <div class="step" year-start="1990" year-end="2000">
+      <div class="textbox" data-scene="0" >
+        SEZs Established Before 2000
+      </div>
+    </div>
+    <div class="step" year-start="2000" year-end="2010">
+      <div class="textbox" data-scene="1" >
+        SEZs Established Between 2000 and 2010
+      </div>
+    </div>
+    <div class="step" year-start="2010" year-end="2020">
+      <div class="textbox" data-scene="2" >
+        SEZs Established Between 2010 and 2020
+      </div>
+    </div>
+    <div class="step" year-start="2020" year-end="2030">
+      <div class="textbox" data-scene="3" >
+        SEZs Established After 2020
+      </div>
+    </div>
+  </div>
+
+</body>
+<script src="https://unpkg.com/scrollama"></script>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+<script src="script.js"></script>
+</html>

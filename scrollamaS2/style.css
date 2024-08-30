@@ -1,0 +1,41 @@
+body {
+   margin: 0;
+}
+
+.step {
+  height: 100vh;
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 1;
+  margin-top: 40vh;
+}
+.textbox{
+  max-width: 400px;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 0.9em;
+  margin: 0 auto 0 100px;
+  opacity: 1;
+  animation: ease-in-out 2s;
+}
+.textbox.active{
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(0);
+}
+#map {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 0;
+  top: 0;
+}
+#t1,#t2,#t3{
+  opacity: 0;
+}

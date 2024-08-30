@@ -1,0 +1,2331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.81239785,
+          12.20230955
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 21,
+        "name": "MDS Thmorda SEZ",
+        "province": "Pursat",
+        "district": "Veal Veaeng",
+        "commune": "Thma Da",
+        "landarea_h": 2265,
+        "capital": 30392000,
+        "developer": "Mr. Try Pheap",
+        "cdc_num": "2030",
+        "date_cdc": "30 Sep 2010",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        102.81239785,
+        12.20230955,
+        102.81239785,
+        12.20230955
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.07238065,
+          11.05372377
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 22,
+        "name": "N.L.C SEZ",
+        "province": "Svay Rieng",
+        "district": "Svay Teab",
+        "commune": "Chrak Mtes",
+        "landarea_h": 105,
+        "capital": 13000000,
+        "developer": "Ms. Leang Vouch Chheng",
+        "cdc_num": "2403",
+        "date_cdc": "15 Jul 2005",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        106.07238065,
+        11.05372377,
+        106.07238065,
+        11.05372377
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.52720348,
+          13.662346
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 23,
+        "name": "Try Pheap Ou Ya Dav SEZ",
+        "province": "Ratanak Kiri",
+        "district": "Ou Ya Dav",
+        "commune": "Pak Nhai",
+        "landarea_h": 136,
+        "capital": 44994360,
+        "developer": "Mr. Try Pheap",
+        "cdc_num": "765/13",
+        "date_cdc": "19 Apr 2013",
+        "sub_decree": "219",
+        "date_sub": "07 May 2013",
+        "cdc_status": "Not found",
+        "cur_status": "2015__Infrastructure developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_219__07.05.2013.pdf",
+        "referen_kh": null,
+        "last_updat": "9/4/2014",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2013
+      },
+      "bbox": [
+        107.52720348,
+        13.662346,
+        107.52720348,
+        13.662346
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99176956,
+          11.04301324
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 24,
+        "name": "Hi-Park SEZ",
+        "province": "Svay Rieng",
+        "district": "Bavet",
+        "commune": "Chrak Mtes",
+        "landarea_h": 263.13,
+        "capital": 62784780,
+        "developer": "Very well Hong Kong Limited. Representative: Mr. Lin Mao-Fong",
+        "cdc_num": "131/13",
+        "date_cdc": "16 Jan 2013",
+        "sub_decree": "285",
+        "date_sub": "30 May 2013",
+        "cdc_status": "Operating",
+        "cur_status": "2015__Infrastructure developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_285__30.05.2013.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2013
+      },
+      "bbox": [
+        105.99176956,
+        11.04301324,
+        105.99176956,
+        11.04301324
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0669596,
+          11.82462738
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 1,
+        "name": "Thary Kampong Cham SEZ",
+        "province": "Kampong Cham",
+        "district": "Memot",
+        "commune": "Dar",
+        "landarea_h": 142.14,
+        "capital": 69000000,
+        "developer": "Mr. Chhorn Thary",
+        "cdc_num": "1931",
+        "date_cdc": "11 Jun 2007",
+        "sub_decree": "74",
+        "date_sub": "16 Jul 2007",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "1 company",
+        "reference": "Cambodian_SEZ_Board__01.07.2009.pdf;CDC__22.04.2013.pdf;Sub_Decree_No_74__16.07.2007.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2007
+      },
+      "bbox": [
+        106.0669596,
+        11.82462738,
+        106.0669596,
+        11.82462738
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.11301926,
+          11.06463175
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 2,
+        "name": "Tai Seng Bavet SEZ",
+        "province": "Svay Rieng",
+        "district": "Chantrea",
+        "commune": "Bavet",
+        "landarea_h": 99,
+        "capital": 37000000,
+        "developer": "Mr. Ly Hong Shin",
+        "cdc_num": "24",
+        "date_cdc": "04 Jan 2007",
+        "sub_decree": "29",
+        "date_sub": "04 Apr 2007",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing: fencing, landfill and connecting electricity into the zone.",
+        "pre_status": "Jul 2011__Operational",
+        "com_invest": "11 Compainies",
+        "reference": "CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_29__04.04.2007.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "19/6/2014",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2007
+      },
+      "bbox": [
+        106.11301926,
+        11.06463175,
+        106.11301926,
+        11.06463175
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.11786038,
+          11.04879422
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 3,
+        "name": "Manhattan (Svay Reing) SEZ",
+        "province": "Svay Rieng",
+        "district": "Chantrea",
+        "commune": "Bavet",
+        "landarea_h": 157.007,
+        "capital": 15000000,
+        "developer": "Mr. Clement Yang (Taiwan)",
+        "cdc_num": "2942",
+        "date_cdc": "28 Aug 2005",
+        "sub_decree": "135",
+        "date_sub": "29 Nov 2006",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__The company already built infrastucture, connected power grid from Viet Nam and fenced of the first phase of 70 ha.",
+        "pre_status": "Jul 2011__Operational",
+        "com_invest": "18 Companies",
+        "reference": "CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_135__29.11.2006.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "19/6/2014",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2006
+      },
+      "bbox": [
+        106.11786038,
+        11.04879422,
+        106.11786038,
+        11.04879422
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.02672887,
+          11.22840327
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 4,
+        "name": "Goldfame Pak Shun SEZ",
+        "province": "Kandal",
+        "district": "S'ang",
+        "commune": "Setbo",
+        "landarea_h": 80,
+        "capital": 34462510,
+        "developer": "Mr. Chan Ji Kvong",
+        "cdc_num": "25",
+        "date_cdc": "04 Jan 2007",
+        "sub_decree": "30",
+        "date_sub": "04 Apr 2007",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure development: fencing",
+        "pre_status": "Jul 2011__Operational",
+        "com_invest": "3 Companies",
+        "reference": "CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_30__04.04.2007.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "4/6/2014",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2007
+      },
+      "bbox": [
+        105.02672887,
+        11.22840327,
+        105.02672887,
+        11.22840327
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.80319639,
+          10.61813726
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 5,
+        "name": "Doung Chhiv Phnom Den SEZ",
+        "province": "Takeo",
+        "district": "Kiri Vong",
+        "commune": "Phnum Den",
+        "landarea_h": 79,
+        "capital": 28000000,
+        "developer": "Oknha Doung Chhiv",
+        "cdc_num": "268",
+        "date_cdc": "20 Feb 2006",
+        "sub_decree": "140",
+        "date_sub": "08 Dec 2006",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing: landfill and fencing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_140__08.12.2006.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2006
+      },
+      "bbox": [
+        104.80319639,
+        10.61813726,
+        104.80319639,
+        10.61813726
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.16686574,
+          11.05021765
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 6,
+        "name": "D&M Bavet SEZ",
+        "province": "Svay Rieng",
+        "district": "Chantrea",
+        "commune": "Bavet",
+        "landarea_h": 117.95,
+        "capital": 52266830,
+        "developer": "Ms. Men Pheakdey;Ms. Chhay Noy;Miss. Dy Chendavy",
+        "cdc_num": "4134",
+        "date_cdc": "01 Nov 2007",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        106.16686574,
+        11.05021765,
+        106.16686574,
+        11.05021765
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07871281,
+          10.56950184
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 7,
+        "name": "Kampot SEZ",
+        "province": "Kampot",
+        "district": "Kampot",
+        "commune": "Koh Touch",
+        "landarea_h": 145,
+        "capital": 15000000,
+        "developer": "Oknha Vinh Huor",
+        "cdc_num": "1947",
+        "date_cdc": "23 May 2006",
+        "sub_decree": "3",
+        "date_sub": "09 Jan 2007",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing: landfilling and building Kampot Seaport.",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_03__09.01.2007.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2007
+      },
+      "bbox": [
+        104.07871281,
+        10.56950184,
+        104.07871281,
+        10.56950184
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.78432807,
+          11.4835498
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 8,
+        "name": "Phnom Penh SEZ",
+        "province": "Phnom Penh",
+        "district": "Pur SenChey",
+        "commune": "Kantaok;Phleung Chheh Roteh;Boeng Thum",
+        "landarea_h": 350.001,
+        "capital": 59000000,
+        "developer": "Neak Oknha Kith Meng (Mr.)",
+        "cdc_num": "268",
+        "date_cdc": "20 Feb 2006",
+        "sub_decree": "33",
+        "date_sub": "19 Apr 2006",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Fencing, roads, administrative building, entrance, electricity, water, and telecommunication systems have been installed.",
+        "pre_status": "Jul 2011__Operational",
+        "com_invest": "100 Companies",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_33__19.04.2006.pdf;CDC_SEZ_Operating__00.00.2023.pdf;RGPPSEZ_presentation_EN__00.06.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/10/2023",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2006
+      },
+      "bbox": [
+        104.78432807,
+        11.4835498,
+        104.78432807,
+        11.4835498
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.55950239,
+          13.66494262
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 9,
+        "name": "Poi Pet O'Neang SEZ",
+        "province": "Banteay Meanchey",
+        "district": "O'Chhrov",
+        "commune": "Nimitt; Poipet",
+        "landarea_h": 467,
+        "capital": 15000000,
+        "developer": "Mrs. Van Ny",
+        "cdc_num": "3412",
+        "date_cdc": "07 Oct 2005",
+        "sub_decree": "57",
+        "date_sub": "01 Jun 2006",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing: fencing, entrance gate, electric pole.",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "1 Company",
+        "reference": "All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_57__01.06.2006.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "28/03/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2006
+      },
+      "bbox": [
+        102.55950239,
+        13.66494262,
+        102.55950239,
+        13.66494262
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.93387912,
+          11.64572587
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 10,
+        "name": "Neang Kok Koh Kong SEZ",
+        "province": "Koh Kong",
+        "district": "Mondol Seima",
+        "commune": "Pak Khlang",
+        "landarea_h": 335.43,
+        "capital": null,
+        "developer": "Okhna Ly Yong Phat",
+        "cdc_num": "3399",
+        "date_cdc": "26 Nov 2002",
+        "sub_decree": "159",
+        "date_sub": "26 Oct 2007",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing: fencing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "2 Companies",
+        "reference": "All_SEZ_list_by_2009.pdf;Sub-decree_No_159__26.10.2007.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "28/03/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2007
+      },
+      "bbox": [
+        102.93387912,
+        11.64572587,
+        102.93387912,
+        11.64572587
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.92246903,
+          11.64943231
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 11,
+        "name": "Suoy Chheng SEZ",
+        "province": "Koh Kong",
+        "district": "Mondol Seima",
+        "commune": "Pak Khlang",
+        "landarea_h": 100,
+        "capital": 14000000,
+        "developer": "Mrs. Kao Souy Chheng",
+        "cdc_num": "3391",
+        "date_cdc": "26 Nov 2002",
+        "sub_decree": "Not found",
+        "date_sub": "Not Found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        102.92246903,
+        11.64943231,
+        102.92246903,
+        11.64943231
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72559361,
+          11.09899072
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 12,
+        "name": "Oknha Mong SEZ",
+        "province": "Koh Kong",
+        "district": "Srae Ambel",
+        "commune": "Srae Ambel",
+        "landarea_h": 100,
+        "capital": 40107080,
+        "developer": "Oknha Mong Rithy",
+        "cdc_num": "26",
+        "date_cdc": "04 Jan 2007",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        103.72559361,
+        11.09899072,
+        103.72559361,
+        11.09899072
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63408048,
+          10.73676221
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 13,
+        "name": "Kampong Saom SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Stung Hav",
+        "commune": "Ou Treh",
+        "landarea_h": 255,
+        "capital": 190000000,
+        "developer": "Okhna Kith Meng",
+        "cdc_num": "21",
+        "date_cdc": "06 Jan 2009",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing: landfilling and building Kampot Seaport.",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "9/4/2014",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        103.63408048,
+        10.73676221,
+        103.63408048,
+        10.73676221
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02981761,
+          11.05578154
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 14,
+        "name": "Pacific (SEZ) I C",
+        "province": "Svay Rieng",
+        "district": "Svay Teab",
+        "commune": "Chrak Mtes",
+        "landarea_h": 107.55,
+        "capital": 70000000,
+        "developer": "Mr.Chea Eav Meng; Mr.Gau Hieck Huor;Mrs.Yin Phanny; Mrs.Sim Moniroth;Mr.Ly Vireak",
+        "cdc_num": "20",
+        "date_cdc": "06 Jan 2009",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodian_SEZ_Board__01.07.2009.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        106.02981761,
+        11.05578154,
+        106.02981761,
+        11.05578154
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.22263996,
+          11.18245123
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 15,
+        "name": "Kiri Sakor Koh Kong SEZ",
+        "province": "Koh Kong",
+        "district": "Kiri Sakor",
+        "commune": "Prek Khsach;Phnhi Meas",
+        "landarea_h": 0,
+        "capital": 110818860,
+        "developer": "Okhna Ly Yong Phat",
+        "cdc_num": "4762",
+        "date_cdc": "25 Dec 2007",
+        "sub_decree": "125",
+        "date_sub": "05 Sep 2008",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;Sub_decree_No_125__15.09.2008.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2008
+      },
+      "bbox": [
+        103.22263996,
+        11.18245123,
+        103.22263996,
+        11.18245123
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6119329,
+          10.61592911
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 16,
+        "name": "S.N.C SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Bet Trang",
+        "landarea_h": 150,
+        "capital": 14000000,
+        "developer": "Oknha Kong Triv",
+        "cdc_num": "3388",
+        "date_cdc": "26 Nov 2002",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        103.6119329,
+        10.61592911,
+        103.6119329,
+        10.61592911
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.60503028,
+          10.72968168
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 17,
+        "name": "Stung Hav SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Stung Hav",
+        "commune": "O'Tres",
+        "landarea_h": 192,
+        "capital": 14000000,
+        "developer": "Ms. Lim Chhiv Ho",
+        "cdc_num": "544;1114",
+        "date_cdc": "18 Feb 2005;28 May 2010",
+        "sub_decree": "50",
+        "date_sub": "25 Mar 2005",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__No activities",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2005
+      },
+      "bbox": [
+        103.60503028,
+        10.72968168,
+        103.60503028,
+        10.72968168
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62654489,
+          10.73294432
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 18,
+        "name": "Sihanoukville SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Stung Hav",
+        "commune": "O'Tres",
+        "landarea_h": 178,
+        "capital": 100000000,
+        "developer": "Oknha Lav Meng Khin",
+        "cdc_num": "1966",
+        "date_cdc": "04 Sep 1998",
+        "sub_decree": "113",
+        "date_sub": "25 Oct 2006",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "2 Companies",
+        "reference": "All_SEZ_list_by_2009.pdf;Sub_decree_No_113__25.10.2006.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "28/03/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2006
+      },
+      "bbox": [
+        103.62654489,
+        10.73294432,
+        103.62654489,
+        10.73294432
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62076813,
+          10.60710652
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 19,
+        "name": "Sihanoukville SEZ 1",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Bet Trang; Ream",
+        "landarea_h": 1113.96,
+        "capital": 320000000,
+        "developer": "Oknha Lav Meng Khin",
+        "cdc_num": "3479;2162",
+        "date_cdc": "05 Sep 2007;29 June 2007",
+        "sub_decree": "24",
+        "date_sub": "17 Mar 2008",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing: building fence, roads, adminstrative building, entrance, electricity, water, and telecommunication system.",
+        "pre_status": "Jul 2011__Operational",
+        "com_invest": "18Companies",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;Sub-Decree_No_24__17.03.2008.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "28/03/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2008
+      },
+      "bbox": [
+        103.62076813,
+        10.60710652,
+        103.62076813,
+        10.60710652
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.51307468,
+          10.64517313
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 20,
+        "name": "Sihanoukville Port SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Preah Sihanouk",
+        "commune": "Sangkat Mouy; Sangkat Bei",
+        "landarea_h": 70,
+        "capital": 34000000,
+        "developer": "PAS & JBIC Loan CP-P6",
+        "cdc_num": "502",
+        "date_cdc": "08 Feb 2008",
+        "sub_decree": "147",
+        "date_sub": "02 Sep 2009",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2014__Infrastructure developing",
+        "pre_status": "Jul 2011__Under construction",
+        "com_invest": "1 Company",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;All_SEZ_list_by_2009.pdf;CDC__22.04.2013.pdf;Cambodia_Special_Economic_Zones__00.07.2011.pdf;Sub_Decree_No_147__02.09.2009.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2009
+      },
+      "bbox": [
+        103.51307468,
+        10.64517313,
+        103.51307468,
+        10.64517313
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00286012,
+          11.03615665
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 25,
+        "name": "Shandong Sunshell Svay Rieng SEZ",
+        "province": "Svay Rieng",
+        "district": "Bavet",
+        "commune": "Prey Angkunh",
+        "landarea_h": 96.14,
+        "capital": 36709800,
+        "developer": "Mrs. Zhou Yong",
+        "cdc_num": "607/13",
+        "date_cdc": "27 Mar 2013",
+        "sub_decree": "462",
+        "date_sub": "01 Jul 2013",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_462__01.07.2013.pdf;Determination_No_41__30.10.2013.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2013
+      },
+      "bbox": [
+        106.00286012,
+        11.03615665,
+        106.00286012,
+        11.03615665
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.72115769,
+          12.02227076
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 26,
+        "name": "Zhong Jian Jin Bian Jing Ji Te Qu SEZ",
+        "province": "Kampong Chhnang",
+        "district": "Kampong Tralach",
+        "commune": "Ta Ches",
+        "landarea_h": 470.28,
+        "capital": 90706000,
+        "developer": "Mr. Chan An Drew",
+        "cdc_num": "767/13",
+        "date_cdc": "19 Apr 2013",
+        "sub_decree": "466",
+        "date_sub": "22 Jul 2013",
+        "cdc_status": "Not found",
+        "cur_status": "2015__Infrastructure developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_466__22.07.2013.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2013
+      },
+      "bbox": [
+        104.72115769,
+        12.02227076,
+        104.72115769,
+        12.02227076
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.60120592,
+          13.65388714
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 27,
+        "name": "Sanco Cambo SEZ",
+        "province": "Banteay Meanchey",
+        "district": "Poipet",
+        "commune": "Phsar Kandal",
+        "landarea_h": 66.5024,
+        "capital": 38613485,
+        "developer": "Mr. Chhour Vichet;Mr. Takahiro yamamoto",
+        "cdc_num": "911/13",
+        "date_cdc": "03 May 2013",
+        "sub_decree": "481",
+        "date_sub": "11 Sep 2013",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_481__11.09.2013.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2013
+      },
+      "bbox": [
+        102.60120592,
+        13.65388714,
+        102.60120592,
+        13.65388714
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.05089154,
+          11.03845185
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 28,
+        "name": "Dragon King Bavet SEZ",
+        "province": "Svay Rieng",
+        "district": "Bavet",
+        "commune": "Prey Angkunh",
+        "landarea_h": 106.5,
+        "capital": 40488000,
+        "developer": "Mrs. Ngov Mok",
+        "cdc_num": "1875/12",
+        "date_cdc": "16 Aug 2012",
+        "sub_decree": "190",
+        "date_sub": "25 Oct 2012",
+        "cdc_status": "Operating",
+        "cur_status": "2015__Infrastructure developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Decision_No_40__30.10.2013.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2012
+      },
+      "bbox": [
+        106.05089154,
+        11.03845185,
+        106.05089154,
+        11.03845185
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2486615,
+          11.36993606
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 29,
+        "name": "Sovannaphum SEZ",
+        "province": "Kandal",
+        "district": "Kien Svay",
+        "commune": "Samraong Thum",
+        "landarea_h": 204.58,
+        "capital": 55792000,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "60",
+        "date_sub": "11 Feb 2014",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf;Sub_Decree_No_60__10.02.2014.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2014
+      },
+      "bbox": [
+        105.2486615,
+        11.36993606,
+        105.2486615,
+        11.36993606
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95769193,
+          11.0462659
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 30,
+        "name": "Svay Rieng GIGA Resource SEZ",
+        "province": "Svay Rieng",
+        "district": "Svay Teab",
+        "commune": "Kandieng Reay",
+        "landarea_h": 126.9018,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "219",
+        "date_sub": "24 Jul 2014",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_219__24.07.2014.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "20/8/2014",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2014
+      },
+      "bbox": [
+        105.95769193,
+        11.0462659,
+        105.95769193,
+        11.0462659
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95680443,
+          11.64283154
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 31,
+        "name": "KANDAL S.E.Z",
+        "province": "Kandal",
+        "district": "Khsach Kandal",
+        "commune": "Prek Ampil",
+        "landarea_h": 105,
+        "capital": 84739160,
+        "developer": "Mr. Lim Chong Soo",
+        "cdc_num": "1143/12",
+        "date_cdc": "04 Jun 2012",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "2015__Infrastructure Developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        104.95680443,
+        11.64283154,
+        104.95680443,
+        11.64283154
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90736947,
+          10.64227148
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 32,
+        "name": "H.K.T S.E.Z",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Teuk Thla",
+        "landarea_h": 345.2,
+        "capital": 48358802,
+        "developer": "Neak Oknha Sy Kong Triv; Oknha Hann Khien; Oknha Vinh Huor; Mrs. Feng Ying; Mr. Shen Jian Ping; Mr. Lui Bin; Mr. Li Cheng Chun Richard",
+        "cdc_num": "1862/12",
+        "date_cdc": "15 Aug 2012",
+        "sub_decree": "189",
+        "date_sub": "25 Oct 2012",
+        "cdc_status": "Not found",
+        "cur_status": "2015__Infrastructure Developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2012
+      },
+      "bbox": [
+        103.90736947,
+        10.64227148,
+        103.90736947,
+        10.64227148
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72181502,
+          10.9819015
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 33,
+        "name": "RATANA SEZ",
+        "province": "Koh Kong",
+        "district": "Sre Ambel",
+        "commune": "Chroy Svay",
+        "landarea_h": 615.62,
+        "capital": 172866660,
+        "developer": "Mrs. Heng Sok Meng",
+        "cdc_num": "131/13",
+        "date_cdc": "16 Jan 2013",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Not found",
+        "cur_status": "2015__Infrastructure Developing",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "IRITWG_Overview_of_the_Transport_Infrastructure_Sector_in_the_Kingdom_of_Cambodia__2015.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": null
+      },
+      "bbox": [
+        103.72181502,
+        10.9819015,
+        103.72181502,
+        10.9819015
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7834175,
+          11.02112799
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 34,
+        "name": "Chhak Kampongsaom SEZ",
+        "province": "Koh Kong",
+        "district": "Sre Ambel",
+        "commune": "Boeung Preav;Chroy Svay",
+        "landarea_h": 185.66,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "53",
+        "date_sub": "29 Mar 2016",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_53__29.03.2016.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2016
+      },
+      "bbox": [
+        103.7834175,
+        11.02112799,
+        103.7834175,
+        11.02112799
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50818218,
+          12.00789219
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 35,
+        "name": "UBE Snoul SEZ",
+        "province": "Kratie",
+        "district": "Snoul",
+        "commune": "Pi Thnu",
+        "landarea_h": 817.8,
+        "capital": 90000000,
+        "developer": "Zhongqi Holding Group",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "131",
+        "date_sub": "24 June 2016",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_131__24.06.2016.pdf;Decision_No_54__01.08.2022.pdf;Cambodian_Kratié_Special_Economic_Zone__07.02.2018.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2016
+      },
+      "bbox": [
+        106.50818218,
+        12.00789219,
+        106.50818218,
+        12.00789219
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67458853,
+          11.40471955
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 36,
+        "name": "Tian Rui Agricultural Trade SEZ",
+        "province": "Kampong Speu",
+        "district": "Kong Pisey",
+        "commune": "Roka Koh",
+        "landarea_h": 101.36,
+        "capital": 2000000000,
+        "developer": "Qingdao Tian Rui Group",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "132",
+        "date_sub": "24 June 2016",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub-decree.No.132__24.06.2016.pdf;Agro-processing_SEZ_moves_closer_to_reality_04.07.2017.pdf",
+        "referen_kh": null,
+        "last_updat": "17/5/2016",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2016
+      },
+      "bbox": [
+        104.67458853,
+        11.40471955,
+        104.67458853,
+        11.40471955
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.60960036,
+          13.64465078
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 37,
+        "name": "Poipet PP SEZ",
+        "province": "Banteay Meanchey",
+        "district": "Poipet",
+        "commune": "Phsar Kandal",
+        "landarea_h": 68.4,
+        "capital": 17000000,
+        "developer": "Neak Oknha Kith Meng",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "92",
+        "date_sub": "29 May 2017",
+        "cdc_status": "Operating",
+        "cur_status": "Feb 2017__fisnished all areas's UXO removal, earth works, site office, and drainage pipe under construction",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_decree_No_92__29.05.2017.pdf;Poipet_PPSEZ_Presentation__02.2017.pdf;Royal_Group_Poipet_PP_SEZ__00.05.2022.pdf;CDC_SEZ_Operating__00.00.2023.pdf;RGPPSEZ_Presentation_EN__00.01.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "17/10/2023",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2017
+      },
+      "bbox": [
+        102.60960036,
+        13.64465078,
+        102.60960036,
+        13.64465078
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.08029682,
+          11.05591194
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 38,
+        "name": "Intervia Automobile Industry Complex SEZ",
+        "province": "Svay Rieng",
+        "district": "Bavet",
+        "commune": "Chrak Mtes",
+        "landarea_h": 111.2053,
+        "capital": null,
+        "developer": "Lee Jaehoo",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "103",
+        "date_sub": "27 June 2017",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_decree_No_103__27.06.2017.pdf;Company_Details_Intervia_Automobile_Industry_Complex_SEZ.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "11/08/2017",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": 2017
+      },
+      "bbox": [
+        106.08029682,
+        11.05591194,
+        106.08029682,
+        11.05591194
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72707707,
+          10.93513097
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 39,
+        "name": "Cambodia-Sino Metallic Material SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Stung Hav",
+        "commune": "Keo Pos",
+        "landarea_h": 55.0008,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "145",
+        "date_sub": "01 Nov 2018",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_decree_No_145__01.11.2018.pdf",
+        "referen_kh": null,
+        "last_updat": "05/01/2018",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2018
+      },
+      "bbox": [
+        103.72707707,
+        10.93513097,
+        103.72707707,
+        10.93513097
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80386616,
+          10.76215279
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 40,
+        "name": "Cambodian Zhejiang Guoji SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Cheung Kou",
+        "landarea_h": null,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Decision_No_15__20.02.2019.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": "",
+        "last_updat": "12/09/2019",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": null
+      },
+      "bbox": [
+        103.80386616,
+        10.76215279,
+        103.80386616,
+        10.76215279
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74599011,
+          11.00664097
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 41,
+        "name": "Sisit SEZ",
+        "province": "Koh Kong",
+        "district": "Sre Ambel",
+        "commune": "Chroy Svay",
+        "landarea_h": 2142.0722,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "122",
+        "date_sub": "27 Aug 2019",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_122__27.08.2019.pdf; Sub_Decree_No_83__09.06.2020.pdf",
+        "referen_kh": "",
+        "last_updat": "16/01/2020",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2019
+      },
+      "bbox": [
+        103.74599011,
+        11.00664097,
+        103.74599011,
+        11.00664097
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80943607,
+          10.82445394
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 42,
+        "name": "CAM MJ Agricultural Park SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Cheung Kou",
+        "landarea_h": 99.3082,
+        "capital": 150000000,
+        "developer": "Qiu Guoxing",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "159",
+        "date_sub": "25 Oct 2019",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_155__25.10.2019.pdf;A_Company_Plans_To_Invest_In_Mango_Processing_InCambodia__05.10.2019.pdf;Prince_Real_Estate_To_Build_Industrial_Park_In_Kampong_Speu__30.05.2018.pdf",
+        "referen_kh": null,
+        "last_updat": "14/02/2019",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2019
+      },
+      "bbox": [
+        103.80943607,
+        10.82445394,
+        103.80943607,
+        10.82445394
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.39698791,
+          11.55575523
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 43,
+        "name": "Ultrapower Technology SEZ",
+        "province": "Kampong Speu",
+        "district": "Samraong Tong",
+        "commune": "Tang Krouch",
+        "landarea_h": 67.3888,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "200",
+        "date_sub": "06 Dec 2019",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_200__06.12.20.pdf",
+        "referen_kh": null,
+        "last_updat": "04/03/2019",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2019
+      },
+      "bbox": [
+        104.39698791,
+        11.55575523,
+        104.39698791,
+        11.55575523
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.77001226,
+          11.38761768
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 44,
+        "name": "Songoun Kandal Stung",
+        "province": "Kandal",
+        "district": "Kadal Stung",
+        "commune": "Trapeang Veng",
+        "landarea_h": 50.1623,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "47",
+        "date_sub": "03 April 2020",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not fouund",
+        "reference": "Sub_Decree_No_47__03.04.2020.pdf",
+        "referen_kh": "",
+        "last_updat": "29/6/2020",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2020
+      },
+      "bbox": [
+        104.77001226,
+        11.38761768,
+        104.77001226,
+        11.38761768
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91860575,
+          11.44031147
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 45,
+        "name": "Kerry Worldbridge SEZ",
+        "province": "Phnom Penh",
+        "district": "Dangkor",
+        "commune": "Prek Kampues",
+        "landarea_h": 63,
+        "capital": 100000000,
+        "developer": "Sear Rithy",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": " Provide long term leasehold property for foreign manufacturers, infrastructure and support services",
+        "com_invest": "Not fouund",
+        "reference": "construction_property_kerry_worldbridge_sez_breaks_ground__31.12.2015.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "24/7/2020",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": null
+      },
+      "bbox": [
+        104.91860575,
+        11.44031147,
+        104.91860575,
+        11.44031147
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.851741,
+          11.068463
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 46,
+        "name": "Qi Lu Jian Pu Jay SEZ",
+        "province": "Svay Rieng",
+        "district": "Svay Rieng",
+        "commune": "Svay Toea",
+        "landarea_h": 178,
+        "capital": 1000000,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "Not found",
+        "date_sub": "Not found",
+        "cdc_status": "Operating",
+        "cur_status": "Not found",
+        "pre_status": "Textile & clothing, light industry products, food processing and machinery & electronics as leading industries.",
+        "com_invest": "Not fouund",
+        "reference": "sez_qi_lu_jian__23.07.2020.pdf; asean_investment_report_2017.pdf;Sub_Decree_No_47__28.03.2017.pdf;CDC_SEZ_Operating__00.00.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "24/7/2020",
+        "language": "English",
+        "cap_inv_m": 0,
+        "year": null
+      },
+      "bbox": [
+        105.851741,
+        11.068463,
+        105.851741,
+        11.068463
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99518214,
+          10.57241052
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 47,
+        "name": "Sunying Pal and Paper Environmental Technology SEZ",
+        "province": "Kampot",
+        "district": "Bokor Municipality",
+        "commune": "Preaek Tnoat",
+        "landarea_h": 140.722,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "34",
+        "date_sub": "14 Feb 2022",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_34__14.02.2022.pdf",
+        "referen_kh": "",
+        "last_updat": "16.06.2022",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2022
+      },
+      "bbox": [
+        103.99518214,
+        10.57241052,
+        103.99518214,
+        10.57241052
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8935687,
+          11.0886128
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 48,
+        "name": "Kampong Seila SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Kampong Seila",
+        "commune": "Kampong Seila",
+        "landarea_h": 74.8654,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "36",
+        "date_sub": "16 Feb 2022",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_36__16.02.2022.pdf",
+        "referen_kh": "",
+        "last_updat": "16.06.2022",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2022
+      },
+      "bbox": [
+        103.8935687,
+        11.0886128,
+        103.8935687,
+        11.0886128
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.28826119,
+          11.08607468
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 49,
+        "name": "Botum Sakor SEZ",
+        "province": "Koh Kong",
+        "district": "Not found",
+        "commune": "Not found",
+        "landarea_h": 9968,
+        "capital": null,
+        "developer": "Royal Group",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "32",
+        "date_sub": "25 Jan 2023",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_32__25.01.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "18/8/2023",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2023
+      },
+      "bbox": [
+        103.28826119,
+        11.08607468,
+        103.28826119,
+        11.08607468
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77804586,
+          10.71968295
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 50,
+        "name": "King Bridge International Prey Nob SEZ ",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Samrong",
+        "landarea_h": 87.0118,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "54",
+        "date_sub": "03 Mar 2023",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_54__03.03.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "24/8/2023",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2023
+      },
+      "bbox": [
+        103.77804586,
+        10.71968295,
+        103.77804586,
+        10.71968295
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.99319009,
+          12.05181219
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 51,
+        "name": "Jiangsu Special Economic Zone on national road no. 6",
+        "province": "Kampong Cham",
+        "district": "Cheung Prey",
+        "commune": "Kouk Rovieng",
+        "landarea_h": 688926,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "78",
+        "date_sub": "25 April 2023",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_78__25.04.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "25/09/2023",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2023
+      },
+      "bbox": [
+        104.99319009,
+        12.05181219,
+        104.99319009,
+        12.05181219
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6392677,
+          13.60262098
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 52,
+        "name": "LL Poipet SEZ",
+        "province": "Banteay Meanchey",
+        "district": "Poipet",
+        "commune": "Nimitt",
+        "landarea_h": 58.4209,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "235",
+        "date_sub": "08 August 2023",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_235__08.08.2023.pdf",
+        "referen_kh": null,
+        "last_updat": "05/12/2023",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2023
+      },
+      "bbox": [
+        102.6392677,
+        13.60262098,
+        102.6392677,
+        13.60262098
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9111053,
+          10.63942564
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 53,
+        "name": "Grand Bokor SEZ",
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Teuk Thla",
+        "landarea_h": 142.0591,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "79",
+        "date_sub": "28 Mar 2024",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_79__28.03.2024.pdf",
+        "referen_kh": null,
+        "last_updat": "02/05/2024",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2024
+      },
+      "bbox": [
+        103.9111053,
+        10.63942564,
+        103.9111053,
+        10.63942564
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.76000901,
+          12.26337012
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 54,
+        "name": "KLPT SEZ",
+        "province": "Kampong Chhnang",
+        "district": "Kampong Leng",
+        "commune": "Trangel",
+        "landarea_h": 98.1022,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "145",
+        "date_sub": "28 Mar 2024",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_145__28.03.2024.pdf",
+        "referen_kh": null,
+        "last_updat": "12/08/2024",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2024
+      },
+      "bbox": [
+        104.76000901,
+        12.26337012,
+        104.76000901,
+        12.26337012
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sez_en__290720.55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.76365355,
+          11.44286525
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "map_id": 55,
+        "name": "Royal Group Kandal SEZ",
+        "province": "Kandal",
+        "district": "Kadal Stung",
+        "commune": "Daeum Rues",
+        "landarea_h": 11.45645,
+        "capital": null,
+        "developer": "Not found",
+        "cdc_num": "Not found",
+        "date_cdc": "Not found",
+        "sub_decree": "144",
+        "date_sub": "28 Mar 2024",
+        "cdc_status": "Not found",
+        "cur_status": "Not found",
+        "pre_status": "Not found",
+        "com_invest": "Not found",
+        "reference": "Sub_Decree_No_144__28.03.2024.pdf",
+        "referen_kh": null,
+        "last_updat": "12/08/2024",
+        "language": "English",
+        "cap_inv_m": null,
+        "year": 2024
+      },
+      "bbox": [
+        104.76365355,
+        11.44286525,
+        104.76365355,
+        11.44286525
+      ]
+    }
+  ],
+  "totalFeatures": 55,
+  "numberMatched": 55,
+  "numberReturned": 55,
+  "timeStamp": "2024-08-29T00:34:16.100Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    102.55950239,
+    10.56950184,
+    107.52720348,
+    13.66494262
+  ]
+}
